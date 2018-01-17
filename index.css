@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    position: absolute;
+    background: #ccc;
+    border: 1px solid #fff;
+}
+
+.snake {
+    position: absolute;
+    background: red;
+    border: 1px solid #fff;
+}
+
+.food {
+    position: absolute;
+    background: yellow;
+    border: 1px solid #fff;
+}
